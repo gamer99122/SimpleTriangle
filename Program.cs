@@ -15,7 +15,7 @@ namespace SimpleTriangle
 
 
 
-
+            //Test
             //Console.Read()，可以讓主控台不會因為執行完(↑上述程式碼)就直接關閉
             Console.Read();
         }
